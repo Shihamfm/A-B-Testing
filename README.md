@@ -1,5 +1,10 @@
 # 📊 A/B Testing for Marketing Campaign Conversion Analysis
 
+<p align="center">
+  <img src="A_B Test/images/A_B testing_banner.png" alt="A/B Testing Banner" width="100%">
+</p>
+
+
 This project explores whether digital advertisements significantly influence user conversions using real-world A/B testing data. It demonstrates how to evaluate campaign effectiveness through statistical testing, EDA, and proper assumption validation.
 
 ---
@@ -42,3 +47,12 @@ The primary goals of this analysis are to:
 
 ## 📁 Project Structure
 
+
+📁 This project is hosted on GitHub.  
+Feel free to explore the code, data, and full analysis:
+
+👉 [View this project on GitHub](https://github.com/Shihamfm/A-B-Testing)
+
+[![GitHub Repo](https://img.shields.io/badge/View_on-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shihamfm/A-B-Testing)
+
+---

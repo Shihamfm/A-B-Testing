@@ -1,0 +1,13 @@
+prefix=D:/Me/Learning/Data Science/A_B Test/venv/Library
+exec_prefix=D:/Me/Learning/Data Science/A_B Test/venv/Library
+libdir=D:/Me/Learning/Data Science/A_B Test/venv/Library/lib
+sharedlibdir=D:/Me/Learning/Data Science/A_B Test/venv/Library/lib
+includedir=D:/Me/Learning/Data Science/A_B Test/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
